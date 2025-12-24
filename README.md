@@ -35,6 +35,7 @@ Presentation: Gamma (AI-powered PPT creation)
 Others: GitHub, Jupyter Notebook
 
 🔄 Project Workflow / Steps
+
 1️⃣ Data Loading & Exploration (Python)
 
 Loaded dataset using Pandas
